@@ -1,0 +1,18 @@
+---
+title: "博客的诞生"
+date: 2021-11-06T17:30:31+08:00
+draft: false
+---
+
+# 测试一级标题
+
+```go
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, my blog!")
+}
+```
+
+网站地址 `https://blog.ther.cool`
+
