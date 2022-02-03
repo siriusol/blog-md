@@ -2,3 +2,4 @@ baseURL = "https://blog.ther.cool"
 languageCode = "en-us"
 title = "Ther 的博客"
 theme = "mini"
+showToc = true
