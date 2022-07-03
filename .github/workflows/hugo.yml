@@ -13,16 +13,18 @@ jobs:
         with:
           submodules: recursive  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Hugo setup
+        # You may pin to the exact commit or the version.
+        # uses: peaceiris/actions-hugo@2e89aa66d0093e4cd14751b3028fc1a179452c2e
+        uses: peaceiris/actions-hugo@v2.4.13
         with:
-          # hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
-          hugo-version: '0.74.2'
+          # The Hugo version to download (if necessary) and use. Example: 0.58.2
+          # hugo-version: # optional, default is latest
+          # Download (if necessary) and use Hugo extended version. Example: true
           extended: true
           
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
