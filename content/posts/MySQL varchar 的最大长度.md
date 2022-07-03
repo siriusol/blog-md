@@ -1,5 +1,5 @@
 ---
-title: "MySQL varchar 的最大长度是多少？"
+title: "MySQL varchar 的最大长度"
 date: 2022-02-03T19:17:31+08:00
 draft: false
 tags: ["MySQL"]
