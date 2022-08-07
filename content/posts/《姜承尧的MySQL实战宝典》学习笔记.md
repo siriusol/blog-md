@@ -38,8 +38,6 @@ seo:
 # See details front matter: /theme-documentation-content/#front-matter
 ---
 
-<!--more-->
-
 ## 1. 表结构设计篇-数字类型
 
 ### 整型类型

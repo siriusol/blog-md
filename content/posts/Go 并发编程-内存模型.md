@@ -2,7 +2,7 @@
 title: "Go 并发编程 内存模型"
 subtitle: ""
 date: 2022-07-09T22:33:20+08:00
-draft: true
+draft: false
 author: ""
 authorLink: ""
 authorEmail: ""
@@ -13,9 +13,9 @@ comment: false
 weight: 0
 
 tags:
-- draft
+- 并发编程
 categories:
-- draft
+- go
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
