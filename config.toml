@@ -1,7 +1,7 @@
 baseURL = "https://blog.ther.cool"
 languageCode = "en-us"
 title = "Ther 的博客"
-theme = "FixIt"
+theme = "hugo-theme-stack"
 showToc = true
 
 [taxonomies]
@@ -10,7 +10,17 @@ showToc = true
 
 [params]
   # FixIt 主题版本
-  version = "0.2.X"
+  # version = "0.2.X"
+  mainSections = ["posts"]
+
+[sidebar]
+  emoji = "🍥"
+
+[sidebar.avatar]
+  enabled = true
+  local = true
+  src = "img/avatar.png"
+
 
 [menu]
   [[menu.main]]
