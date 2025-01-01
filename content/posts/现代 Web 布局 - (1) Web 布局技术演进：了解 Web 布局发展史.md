@@ -1,5 +1,5 @@
 ---
-title: "现代 Web 布局 (1): Web 布局技术演进：了解 Web 布局发展史"
+title: "现代 Web 布局 - (2) Web 布局技术演进：了解 Web 布局发展史"
 date: 2025-01-01T17:47:52+08:00
 draft: false
 categories:
