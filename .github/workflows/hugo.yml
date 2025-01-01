@@ -19,7 +19,7 @@ jobs:
           # The Hugo version to download (if necessary) and use. Example: 0.58.2
           # hugo-version: # optional, default is latest
           # Download (if necessary) and use Hugo extended version. Example: true
-          hugo-version: 0.139.5
+          hugo-version: v0.139.5
           extended: true
           
       - name: Build
