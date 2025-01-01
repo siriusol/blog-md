@@ -33,3 +33,5 @@ jobs:
           external_repository: siriusol/siriusol.github.io
           publish_branch: master
           publish_dir: ./public
+permissions:
+  contents: write
