@@ -16,13 +16,13 @@ categories:
 
 自1991 年 Berners-Lee 创建出世界上首个 Web 页面到如今天，Web 布局主要可以分为六个关键点：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/92f350426de446b38df44a00e3a82098~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/7iFVvw8Bnmx3YSK.jpg)
 
 正如上图所示，每个关键点都有新的布局技术出现，也正因如此，Web 布局也随着技术的变革变得越来越灵活，越来越强大。**其主要表现在，Web** **布局的适配性更强、美感更强、用户体验更好等等。**
 
 除此之外，我们还可以换过一个角度来看。因为不同时代，Web布局（设计）有着自己不同的定义：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b3cdef12c9b94e648b5ef7919bc3fc10~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/upiFBYKyrsMHTAh.png)
 
 在 Web 布局（或者说 Web 设计）中，每个版本有着自己清晰的定义：
 
@@ -40,7 +40,7 @@ categories:
 
 刚才我们也提到过了，Web 布局的演进有六个关键点，这样划分是因为，在这个时候有新的 Web 布局技术出现，使用不同的布局技术，对 Web 布局也有着不同的称谓。
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/791fce4098a74976bc6e86090e4625fb~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/mv8eoWaxHAi3tQK.jpg)
 
 有了这个基础，接下来我们将围绕着 Web 布局这六个关键点来展开。和大家一起探讨每个关键点中采用的主流 Web 布局技术。
 
@@ -48,7 +48,7 @@ categories:
 
 互联网上的第一个网站是由 Tim Berners-Lee 创建的，他在瑞士研究中心 [CERN](http://info.cern.ch/hypertext/WWW/TheProject.html)（欧洲核研究组织）设计了该[网站](http://info.cern.ch/hypertext/WWW/TheProject.html)。
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/504d290a49d245e49e56ec227fca5966~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/rc8NDv9BPZlqXxi.png)
 
 Tim Berners-Lee 不仅被誉为第一位 Web 设计师，他还创建了超文本标记语言 (HTML 规范)，并使用该语言对 CERN 网站进行了编码。他还编写了第一个 Web 服务器规范 (HTTP) 和 Web 浏览器。他将继续创建[万维网联盟](https://www.w3.org/)，该联盟至今仍负责监督 Web 标准的开发。
 
@@ -74,7 +74,7 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 虽然首个 Web 页面仅仅是文本和超链接的展示，但在第二年（1992年）开始，图片就可以通过`<img>`标签在 Web 页面中呈现。下图是世界上首先被运用于 Web 页面的图片之一。
 
-<p align=center><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/53b45c8c7bdc41edbe65e6648a38b2e7~tplv-k3u1fbpfcp-zoom-1.image" alt="img"  /></p>
+![img](https://s2.loli.net/2025/01/01/l5ELgC6jbZI1VRK.png)
 
 不过在当时，Web 开发者更喜欢使用单像素透明图片（GIF）来设置元素之间的间距。作为透明图像，该像素后面的任何内容，例如背景图像或颜色，都会显示出来。
 
@@ -102,11 +102,11 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 效果如下：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6568fb4c5f041c5a9887bcb879733da~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/f29oVqLrwNjSJQP.png)
 
 早期的 Netscape 站点就是使用表格进行布局的：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e4fd0614205049e5952d7d2326e8ac04~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/aMeBlWimX58d6wD.png)
 
 > 直到如今，在互联网上依旧能看到使用表格布局的 Web 页面！
 
@@ -134,7 +134,7 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 大致效果如下：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7332cc6b3fa54b85ad69ff1d15101790~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/usBnz9UfFZQxY3t.png)
 
 当然，这个系统意味着开发人员必须为一个布局管理多个 HTML 文件。由于其他原因，框架也存在问题。比如页面添加书签效果不佳、页面超链接会令人常感到困惑，而且它们对搜索引擎也不友好。
 
@@ -148,7 +148,7 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 与此同时，Web 动画紧随其后，Macromedia Flash 1.0 席卷了互联网。
 
-<p align=center><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/17467a11c9b74cffb91b824667d62f23~tplv-k3u1fbpfcp-zoom-1.image" alt="img"  /></p>
+![img](https://s2.loli.net/2025/01/01/pEXVatDsINYrQvi.png)
 
 但它并非没有缺点。动画只有在网站配备了 Flash 扩展插件时才能运行，否则动画会显示为空白。这给完全基于 Flash 构建的网站带来了严重的问题。此外，Web 动画的开发需要繁重的工作，而且页面加载速度较慢。
 
@@ -158,7 +158,7 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 自 1996 年发布了第一个[ CSS 建议](https://www.w3.org/TR/REC-CSS1/) 之后，1998 年就发布了 CSS 第二版本（CSS 2.0），该版本提供了新的 Web 布局特性，比如定位（`position` ）。与此同时，随着 CSS 的到来，Web 页面才真正有了“美感”这么一说：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5d318ab19fc744e298e3aa4c9011b8b9~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/MkQCrT6hiUvzAFE.png)
 
 也是在这个时候（大约是 90 年代末、20 世纪初），表格布局开始用于其初衷（数据展示），随之在 Web 布局中涌现出很多新的布局模式。比如**浮动布局** 、**定位布局** 和 **框架布局** 等。
 
@@ -168,13 +168,13 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 浮动布局指的是使用 CSS 的浮动（`float`属性）特性来构建 Web 页面。它和 HTML 的表格（`<table>`）标签有点类似，它的初衷也不是用于 Web 布局的，是用来对 Web 进行排版的。即，**用来处理文本围绕图片（或某个元素）的一种排版方式** ，就好比 Word 这样的排版软件中的排版方式，如下图所示：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3c56625d77184793828e64001118262a~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/eyjfOLcURuMAtHK.png)
 
 只不过，广大的 CSSer 发挥其无穷的智慧，硬是将其用于 Web 的布局中，而且这种布局方式一度成为一种主流的布局方式，并且持续了很多年，甚至直到今天，还有不少的同学在使用浮动来布局。直到 Flexbox 布局的出现和移动端的兴起，浮动布局才慢慢的被其取替。
 
 在 CSS 的布局模式当中，浮动布局经历的时期是最长的（至少到目前还没有什么方式超过它），持续了十多年的历史。在这个过程中，也积累了很多不同的布局方法。在早期，Web 开发人员主要采用 **固定宽度** 和 **流式布局** 两种布局方案来实现 Web 页面的布局。
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fc44b8ab589a4e86b8cc1e91c347e8c7~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/iuh7enZ2yrsRVM8.png)
 
 在这个时期也演变出很多经典的布局。其中要属“**圣杯** ”和“**双飞翼** ”两者最为经典。这两种方法实现的都是以三列布局为主，而且两边的宽度是固定的，中间列是自适应，它们实现的效果是一样的，只是实现的思路不同。
 
@@ -204,11 +204,11 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 对于网格系统，其也经历了一个漫长的演变。表格布局虽然痛苦，但可以说表格是网格系统布局的最初模型。
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4d53c44fdfe246ec92b11fd52c8c908f~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/xRwlhtPBpqeCTdc.png)
 
 正因为有表格布局的存在，才有了后面的 CSS 网格系统，不管是早期基于浮动完成的网格系统，还是后期依赖于 Flexbox 完成的网格系统。当然，你可能会说，网格系统的鼻祖不是 [960gs](http://960.gs/)？
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f1ecd2557dd84a78832217efa0cd7820~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/wyBPOzF2xQvUheE.png)
 
 虽然 960gs 是最早出现的网格系统（基于浮动布局），但其网格的思路是来源于表格的。因为表格具有明显的栅格风格，只不过是使用其它的布局方式，快速模拟了表格的风格，甚至是嵌套表格的风格。加上网格系统让 Web 的设计变得结构整齐、布局平衡等，受到众多设计师的青眯，也让 Web 开发者更易实现，并且可以依据此思路制定一套系统。基于此系统，可以快速完成 Web 布局，并且达到较好的效果，甚至还可以基于此系统制作工具，通过工具帮助大家快速完成布局。
 
@@ -222,13 +222,13 @@ Tim Berners-Lee 对漂亮的格式不太感兴趣。出于这个原因，HTML �
 
 虽然这种依赖动态分辨率布局的方案，可以在不同的分辨率下提供更佳的体验，但随着 2005 年 08 月 10 日 Opera 软件公司推出 Opera Mini ，和 2007 年 01 月 09 日第一台 iPhone 手机的出现，市场上不同品牌，不同分辨率的移动端以及品牌商自己的 Web 浏览器越来越多。
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ea700d32317549169acbbc58019bdffe~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/914RoNBkuLPC2Ti.png)
 
 在这种环境之下，基于动态分辨率加载不同的样式表已不太现实，Web 开发者不得不想出其他的方案来适应不同的屏幕尺寸。
 
 在很长一段时间，甚至到今日，为了适应不同屏幕的尺寸适配，为移动端单独创建一个网站，即 移动子域名网站。比如 Facebook 的桌面版本和移动端版本，采用两个不同的域名来访问：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bcf734e3af5745089a0a3cfaf8a47ef2~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/YJlAKxC7eFPkN68.png)
 
 如此一来，开发人员要开发两个版本，相应的工作量就更大了，特别对于要快速响应和试错的 Web 应用来说，难度变得更大。
 
@@ -240,7 +240,7 @@ Ethan Marcotte（@beep） 在《[Responsive Web Design](https://alistapart.com/a
 
 另外，Ethan Marcotte（@beep） 构建了第一个具有响应式的 Web 网页，可以说是响应式 Web 设计经典案例之一（只可惜现在打不开了）：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe378046d8f148979e20a8d49d2f0738~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/QZSjEDGHC72MO4T.png)
 
 ## 内在 Web 设计（IWD）
 
@@ -248,7 +248,7 @@ Ethan Marcotte（@beep） 在《[Responsive Web Design](https://alistapart.com/a
 
 > 我们现在正处于 Web 设计发展的另一个转折点，创意比增长更重要。
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e6012634dc54aa785f1c500ce2a45cc~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/inJVkw1hT6Ptb5g.png)
 
 Jen 说，“内在 Web 设计”（"Intrinsic Web Design"）可能是 Web 设计历史上的新关键点，一切都在改变，在以技术和经验为基础，希望以最少的代码量来实现复杂的 Web 设计，或者说，**Web** **开发者希望在用最少的代码和复杂** **Web** **设计之间取得完美的平衡** 。她意识到，以“内在 Web 设计”将可以把这种平衡趋向于完美。那么什么是内在 Web 设计？
 
@@ -282,7 +282,7 @@ Web 生态是不断向前发展的。在这十多年来，CSS 也发生了巨大
 
 简单地说， 组件驱动 Web 设计（Component-Driven Web Design），基于组件驱动的开发，即 **CSS** **新增的特性将直接基于组件而不是基于页面注入样式响应能力** 。用下图来简单概述组件驱动式 Web 设计：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/14cd2dcb46734fed98c173423ad2641b~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/xhz7Feft8WgsCD5.png)
 
 简要地说，我们使用 CSS 新特性可以做到：
 
@@ -302,11 +302,11 @@ Web 生态是不断向前发展的。在这十多年来，CSS 也发生了巨大
 
 自从第一张 Web 页面诞生至今，Web 的布局已经经过了多次迭代：无布局 » 表格布局 » 浮动布局 » 框架布局 » 现代布局 » 未来布局：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41588662dce54cab92bfcfc8d0ab8575~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/rzYDXO2J4jAHbxi.jpg)
 
 整个布局演变过程中，有不同的名词来定义布局（一般根据采用的布局技术来命名）：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ece2b54c32da449c892ba549ad556779~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/uF5MAyIZaJQmlth.jpg)
 
 其中浮动布局（主要是 CSS 的 `float` 属性）技术曾也占据较长时间，在当初那个年代可以说是主流的布局技术，直到 Flexbox 的出现以及浏览器对 Flexbox 越来越完善时，浮动布局技术才被 Flexbox 布局技术替代下来。
 
@@ -314,7 +314,7 @@ Web 生态是不断向前发展的。在这十多年来，CSS 也发生了巨大
 
 随着 CSS 技术不断向前发展，尤其是这几年，可以用 Web 布局的特性明显增多：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d986e0471f74ef78f5fd8eb6abdb326~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/sC8cYlIMw1FfmNz.jpg)
 
 正如上图所示，其中多列布局（Multi-column）和 Flexbox 已经是很成熟的技术，只不过多列布局（Multi-column）使用的较少，对于像 CSS 自定义属性、CSS 网格（它也很早就有了）、宽高比（`aspect-ratio`）、CSS 比较函数（`min()`、`max()` 和 `clamp()`）、CSS 逻辑属性、CSS书写模式 和 CSS 视窗单位，是近两年才得到主流浏览器支持，其他很多特性对于 Web 开发者来说是“只闻其名，未见其身”。
 
@@ -322,7 +322,7 @@ Web 生态是不断向前发展的。在这十多年来，CSS 也发生了巨大
 
 [如果你有关注过CSS相关的发展报告的话](http://2021.stateofcss.com/en-US/opinions/#currently_missing_from_css_wins)，你可能也知道，这几个 CSS 特性一直以来也是 CSSer 最为期待的三个特性，尤其是容器查询和父选择器：
 
-![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a563f89868b43108360f6d388e88e31~tplv-k3u1fbpfcp-zoom-1.image)
+![img](https://s2.loli.net/2025/01/01/RjWnHJkrI9S7st4.jpg)
 
 也就是说，这些 CSS 特性已成为时下，或将成为 Web 布局的主流技术。
 
